@@ -1,0 +1,6 @@
+StepDefinitions\ApiDemos\Hookes.class
+StepDefinitions\ApiDemos\AppContentScreenStep.class
+StepDefinitions\ApiDemos\AppPrefrencesScreenStep.class
+TestRunnerFile\ApiDemos\AppRunner.class
+StepDefinitions\ApiDemos\AppMediaScreenStep.class
+StepDefinitions\ApiDemos\AppViewsScreenStep.class

@@ -1,0 +1,8 @@
+AppScreens\ApiDemos\PrefrencesScreen.class
+LAppUtilityFiles\xlsreader.class
+AppScreens\ApiDemos\ViewScreen.class
+ExtentReport\ExtentReportFile.class
+AppScreens\ApiDemos\ContentScreen.class
+AppScreens\ApiDemos\MediaScreen.class
+Screenshots\screenshot.class
+AppBaseClass\ApiDemos\AppiumTestBase.class
